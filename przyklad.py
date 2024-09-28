@@ -11,3 +11,18 @@ program
 """)
 
 # nowy komentarz
+
+print("siema")
+print('siema')
+print('"siema"')
+print("'siema'")
+print('\"siema \'')
+
+
+i = 10
+j = -3
+r = 3.5
+
+print(f"Zmienna i ma wartosc: {i}.")
+print(f"Zmienna j ma wartosc: {j}.")
+print(f"Zmienna r ma wartosc: {r}.")
